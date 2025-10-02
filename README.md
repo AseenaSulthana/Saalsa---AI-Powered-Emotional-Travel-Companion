@@ -1,5 +1,5 @@
 
-# 🌍✨ Saalsa – AI-Powered Emotional Travel Companion
+#  Saalsa – AI-Powered Emotional Travel Companion🌍✨
 
 > **Machine Learning & Travel-Tech Innovation**
 > Built with **Next.js, React, Node.js & AWS**
